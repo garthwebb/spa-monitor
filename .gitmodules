@@ -1,0 +1,3 @@
+[submodule "code/Spa Temp/lib/embedded-shared"]
+	path = code/Spa Temp/lib/embedded-shared
+	url = git@github.com:garthwebb/embedded-shared.git
