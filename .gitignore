@@ -398,3 +398,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Tub BLE: unlock token and captures that contain it
+code/tub-ble/tub_config.json
+*.pklg
+.venv/
