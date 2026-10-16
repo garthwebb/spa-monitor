@@ -1,0 +1,5 @@
+{
+  "name": "CedarTub",
+  "address": null,
+  "unlock_token": "<30-char string the app writes to 6436e996-...; see PROTOCOL.md>"
+}
